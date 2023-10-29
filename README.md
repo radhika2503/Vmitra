@@ -59,15 +59,7 @@ Our website provides several key features to facilitate the connection and colla
 
 #### Backend
 
-[<img align="left" alt="NODE" width="26px" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" />](https://nodejs.org/en/)
-[<img align="left" alt="express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://www.express.com/)
-[<img align="left" alt="elixir" width="26px" src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png" />](https://elixir-lang.org/getting-started/introduction.html)
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
-[<img align="left" alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />](https://golang.org/)
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://www.cprogramming.com/)
-[<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](https://www.djangoproject.com/)
-[<img align="left" alt="ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />](https://www.ruby-lang.org/en/)
-<br />
+[<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](https://www.php.com/)
 
 #### Database
 
