@@ -9,9 +9,9 @@ Project README: Vmitra
 
 ## Project Overview
 
-### Welcome to the Small Business and Vendor Connection Website!
+### Welcome to Vmitra!
 
-This project is a web platform designed to bridge the gap between small businesses, vendors, hawkers, non-governmental organizations (NGOs), and disabled individuals and the customers who are still passionate about shopping from local vendors. It's a place where these groups can connect, collaborate, and thrive together. This README provides an overview of the project.
+This project is a web platform designed to bridge the gap between small businesses, vendors, hawkers, non-governmental organizations (NGOs), and the customers who are still passionate about shopping from local vendors. It's a place where these groups can connect, collaborate, and thrive together. This README provides an overview of the project.
 
 ---
 
