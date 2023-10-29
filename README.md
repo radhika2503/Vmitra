@@ -1,4 +1,4 @@
-# Project README: Small Business and Vendor Connection Website
+s# Project README: Small Business and Vendor Connection Website
 
 ## Table of Contents
 - [Project Overview](#project-overview)
