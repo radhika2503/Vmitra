@@ -1,4 +1,4 @@
-s# Project README: Small Business and Vendor Connection Website
+Project README: Vmitra
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -47,4 +47,4 @@ Our website provides several key features to facilitate the connection and colla
 [<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
 <br/>
 
-Thank you for your interest in the Small Business and Vendor Connection Website. We hope this platform fosters collaboration and growth among small businesses, vendors, hawkers, NGOs, and disabled individuals while creating a vibrant, inclusive community. If you have any questions or need further assistance, please feel free to reach out to our team.
+Thank you for your interest in the Vmitra Website. We hope this platform fosters collaboration and growth among small businesses, vendors, hawkers, NGOs, and disabled individuals while creating a vibrant, inclusive community. If you have any questions, please feel free to reach.
